@@ -20,7 +20,7 @@ export const cards = [
     description:
       "This landing page was created to offer personalized French classes, tailored to the needs of students at all levels. The site provides clear, easy navigation for students to explore course offerings, schedule lessons, and learn more about the teaching approach.",
     href: "/images/french-class.png",
-    link: "https://profjess.netlify.app/",
+    link: "https://profjess.com.br/",
     react: true,
     next: true,
     tailwind: true,
